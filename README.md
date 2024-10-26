@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: KISHAN SHREE B
+### Register Number:212223100022
+![image](https://github.com/user-attachments/assets/b2121c63-6d54-43b4-9a7c-146a99f75812)
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
